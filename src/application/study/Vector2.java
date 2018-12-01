@@ -1,9 +1,11 @@
 package application.study;
 
+import entities.Product;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Product;
+//teste
 
 public class Vector2 {
 
